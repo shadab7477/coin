@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coin/static/css/main.51579e83.css",
+    "main.js": "/coin/static/js/main.be0c314c.js",
+    "static/media/blockchain.gif": "/coin/static/media/blockchain.d9cc040a049cc8ce2426.gif",
+    "index.html": "/coin/index.html",
+    "main.51579e83.css.map": "/coin/static/css/main.51579e83.css.map",
+    "main.be0c314c.js.map": "/coin/static/js/main.be0c314c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51579e83.css",
+    "static/js/main.be0c314c.js"
+  ]
+}
